@@ -12,7 +12,7 @@ Computer Engineering grad from **UC San Diego** (B.S. '26, Math minor, Provost H
 | Project | What it is | Stack |
 |---|---|---|
 | [IT Help Desk Ticket System](https://github.com/eholguin1/it-help-desk-ticket-system) | Web app for submitting tickets and tracking them through Open, In Progress, and Closed | Python, Flask, SQLite, Jinja |
-| ML Grade Prediction ([https://github.com/jaspyha/CSE151B_FinalProject]) | Predictive models linking student activity data to academic performance | pandas, scikit-learn, PyTorch, LLMs |
+| [ML Grade Prediction] ([https://github.com/jaspyha/CSE151B_FinalProject]) | Predictive models linking student activity data to academic performance | pandas, scikit-learn, PyTorch, LLMs |
 | Embedded Pinball Machine | Real-time firmware for an Arduino pinball machine, integrating sensors and motors into game logic | C++, Arduino |
 | Student Sleep & Exercise Tracker | Team-built website for tracking sleep and exercise; I was the Scrum Master | Web, Agile/Scrum |
 
